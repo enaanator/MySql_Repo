@@ -45,5 +45,3 @@ git clone https://github.com/your-username/hr-data-analytics.gi
 ## Acknowledgments
 
  Thanks to the open-source communities behind MySQL and PowerBI for their excellent tools and resources.
-
-Feel free to customize and expand this README file based on your project's specific details and requirements.
